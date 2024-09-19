@@ -1,1 +1,1 @@
-# Crackedwarrior-Amazon-Html-Css-clone
+# Amazon-Html-Css-clone
